@@ -1,0 +1,6 @@
+.idea
+.vscode
+.git
+_MACOSX
+vendor
+*.db
